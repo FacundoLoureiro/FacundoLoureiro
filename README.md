@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=Bienvenidos%20a%20Mi%20Perfil!)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&color=gradient&text=Bienvenidos%20a%20Mi%20Perfil!)
 
 
 
@@ -30,6 +30,6 @@ Desarrollador .NET con un enfoque en la creación de sistemas escalables, bien d
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white&style=for-the-badge) 
 ![Scrum](https://img.shields.io/badge/Methodology-Scrum-6DB33F?logo=scrum&logoColor=white&style=for-the-badge) 
 
-![Mi cápsula](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&rotate=-30)
+![Mi cápsula](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&color=gradient)
 
 
