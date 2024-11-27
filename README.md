@@ -1,3 +1,7 @@
+![Mi cápsula](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+
+
 ## 👋 Hola, soy Facundo!
 Desarrollador .NET con un enfoque en la creación de sistemas escalables, bien documentados y de alta calidad. Mi objetivo es entregar soluciones eficientes, sostenibles y fáciles de mantener, diseñadas para soportar el crecimiento futuro sin complicaciones. Estoy comprometido con la escritura de código limpio y estructurado, asegurando aplicaciones óptimas, comprensibles y fácilmente extensibles.
 
