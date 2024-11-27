@@ -1,4 +1,4 @@
-![Mi cápsula](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&rotate=-30)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!)
 
 
 
@@ -27,6 +27,8 @@ Desarrollador .NET con un enfoque en la creación de sistemas escalables, bien d
 
 <!-- Otros -->
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white&style=for-the-badge) 
+
+![Mi cápsula](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&rotate=-30)
 ![Scrum](https://img.shields.io/badge/Methodology-Scrum-6DB33F?logo=scrum&logoColor=white&style=for-the-badge) 
 
 
