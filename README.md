@@ -1,5 +1,5 @@
 ## 👋 Hola, soy Facundo!
-Desarrollador backend especializado en .NET.
+Desarrollador .NET con un enfoque en la creación de sistemas escalables, bien documentados y de alta calidad. Mi objetivo es entregar soluciones eficientes, sostenibles y fáciles de mantener, diseñadas para soportar el crecimiento futuro sin complicaciones. Estoy comprometido con la escritura de código limpio y estructurado, asegurando aplicaciones óptimas, comprensibles y fácilmente extensibles.
 
 ## 🛠️ Tecnologías y Herramientas
 <!-- Backend -->
