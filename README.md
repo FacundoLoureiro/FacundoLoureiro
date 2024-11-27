@@ -27,5 +27,4 @@ Desarrollador backend especializado en .NET.
 
 
 
-## 📊 GitHub Stats
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=facundoloureiro&show_icons=true&theme=dark)
+
