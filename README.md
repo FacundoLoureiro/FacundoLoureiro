@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&color=gradient&text=Bienvenidos%20a%20Mi%20Perfil!)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=Bienvenidos%20a%20Mi%20Perfil!)
 
 
 
