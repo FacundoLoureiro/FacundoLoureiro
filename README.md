@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Bienvenidos%20a%20mi%20perfil!&fontAlign=50&fontAlignY=40&color=0:00c6ff,100:0072ff)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&text=Bienvenidos%20a%20mi%20perfil!&fontAlign=50&fontAlignY=40&color=0:EEFF00,100:a82da8)
+
 
 
 
